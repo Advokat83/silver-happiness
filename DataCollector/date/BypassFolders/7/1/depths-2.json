@@ -1,0 +1,362 @@
+[
+  {
+    "station_name": "Митино",
+    "depth": "-14"
+  },
+  {
+    "station_name": "Кунцевская",
+    "depth": "0"
+  },
+  {
+    "station_name": "Калужская",
+    "depth": "-10"
+  },
+  {
+    "station_name": "Соколиная Гора",
+    "depth": "-5"
+  },
+  {
+    "station_name": "Менделеевская",
+    "depth": "-48,5"
+  },
+  {
+    "station_name": "ВДНХ",
+    "depth": "-53,5"
+  },
+  {
+    "station_name": "Выставочная",
+    "depth": "-25"
+  },
+  {
+    "station_name": "Профсоюзная",
+    "depth": "-7"
+  },
+  {
+    "station_name": "Боровицкая",
+    "depth": "-46,5"
+  },
+  {
+    "station_name": "Перово",
+    "depth": "-9"
+  },
+  {
+    "station_name": "Спортивная",
+    "depth": "-42"
+  },
+  {
+    "station_name": "Ломоносовский проспект",
+    "depth": "-15"
+  },
+  {
+    "station_name": "Андроновка",
+    "depth": "0"
+  },
+  {
+    "station_name": "Улица Дмитриевского",
+    "depth": "-18"
+  },
+  {
+    "station_name": "Технопарк",
+    "depth": "0"
+  },
+  {
+    "station_name": "Кунцевская",
+    "depth": "-31,2"
+  },
+  {
+    "station_name": "Славянский бульвар",
+    "depth": "-8,5"
+  },
+  {
+    "station_name": "Шоссе Энтузиастов",
+    "depth": "-53"
+  },
+  {
+    "station_name": "Раменки",
+    "depth": "-15"
+  },
+  {
+    "station_name": "Александровский сад",
+    "depth": "-7"
+  },
+  {
+    "station_name": "Щёлковская",
+    "depth": "-8"
+  },
+  {
+    "station_name": "Кунцевская",
+    "depth": "0"
+  },
+  {
+    "station_name": "Университет",
+    "depth": "-26,5"
+  },
+  {
+    "station_name": "Марксистская",
+    "depth": "-60"
+  },
+  {
+    "station_name": "Улица Горчакова",
+    "depth": "9,6"
+  },
+  {
+    "station_name": "Библиотека имени Ленина",
+    "depth": "-12"
+  },
+  {
+    "station_name": "Отрадное",
+    "depth": "-9"
+  },
+  {
+    "station_name": "Пражская",
+    "depth": "-9,5"
+  },
+  {
+    "station_name": "Достоевская",
+    "depth": "-60"
+  },
+  {
+    "station_name": "Киевская",
+    "depth": "-48"
+  },
+  {
+    "station_name": "Мичуринский проспект",
+    "depth": "-13"
+  },
+  {
+    "station_name": "Нижегородская",
+    "depth": "-21,8"
+  },
+  {
+    "station_name": "Каховская",
+    "depth": "-8"
+  },
+  {
+    "station_name": "Медведково",
+    "depth": "-10"
+  },
+  {
+    "station_name": "Мичуринский проспект",
+    "depth": "-19"
+  },
+  {
+    "station_name": "Курская",
+    "depth": "-40"
+  },
+  {
+    "station_name": "Багратионовская",
+    "depth": "0"
+  },
+  {
+    "station_name": "Свиблово",
+    "depth": "-8"
+  },
+  {
+    "station_name": "Лермонтовский проспект",
+    "depth": "-12"
+  },
+  {
+    "station_name": "Улица 1905 года",
+    "depth": "-11"
+  },
+  {
+    "station_name": "Бульвар Дмитрия Донского",
+    "depth": "-10"
+  },
+  {
+    "station_name": "Речной вокзал",
+    "depth": "-6"
+  },
+  {
+    "station_name": "Выставочный центр",
+    "depth": "6"
+  },
+  {
+    "station_name": "Краснопресненская",
+    "depth": "-35,5"
+  },
+  {
+    "station_name": "Шелепиха",
+    "depth": "-18"
+  },
+  {
+    "station_name": "Новоясеневская",
+    "depth": "-7"
+  },
+  {
+    "station_name": "Тушинская",
+    "depth": "-10,5"
+  },
+  {
+    "station_name": "Щукинская",
+    "depth": "-13"
+  },
+  {
+    "station_name": "Косино",
+    "depth": "-27"
+  },
+  {
+    "station_name": "Крымская",
+    "depth": "-3"
+  },
+  {
+    "station_name": "Серпуховская",
+    "depth": "-43"
+  },
+  {
+    "station_name": "Алексеевская",
+    "depth": "-51"
+  },
+  {
+    "station_name": "Коммунарка",
+    "depth": "?"
+  },
+  {
+    "station_name": "Лухмановская",
+    "depth": "-15"
+  },
+  {
+    "station_name": "Новогиреево",
+    "depth": "-9"
+  },
+  {
+    "station_name": "Полежаевская",
+    "depth": "-10"
+  },
+  {
+    "station_name": "Электрозаводская",
+    "depth": "-20"
+  },
+  {
+    "station_name": "Румянцево",
+    "depth": "-12"
+  },
+  {
+    "station_name": "Мякинино",
+    "depth": "0"
+  },
+  {
+    "station_name": "Третьяковская",
+    "depth": "-46"
+  },
+  {
+    "station_name": "ЗИЛ",
+    "depth": "0"
+  },
+  {
+    "station_name": "Чистые пруды",
+    "depth": "-35"
+  },
+  {
+    "station_name": "Зорге",
+    "depth": "0"
+  },
+  {
+    "station_name": "Красногвардейская",
+    "depth": "-9"
+  },
+  {
+    "station_name": "Угрешская",
+    "depth": "0"
+  },
+  {
+    "station_name": "Тульская",
+    "depth": "-9,5"
+  },
+  {
+    "station_name": "Тургеневская",
+    "depth": "-49"
+  },
+  {
+    "station_name": "Трубная",
+    "depth": "-60"
+  },
+  {
+    "station_name": "Новослободская",
+    "depth": "-40"
+  },
+  {
+    "station_name": "Минская",
+    "depth": "-15"
+  },
+  {
+    "station_name": "Текстильщики",
+    "depth": "-13"
+  },
+  {
+    "station_name": "Филатов Луг",
+    "depth": "0"
+  },
+  {
+    "station_name": "Мнёвники",
+    "depth": "-27"
+  },
+  {
+    "station_name": "Тёплый Стан",
+    "depth": "-8"
+  },
+  {
+    "station_name": "Павелецкая",
+    "depth": "-40"
+  },
+  {
+    "station_name": "Проспект Вернадского",
+    "depth": "-16"
+  },
+  {
+    "station_name": "Верхние Котлы",
+    "depth": "0"
+  },
+  {
+    "station_name": "Тверская",
+    "depth": "-42"
+  },
+  {
+    "station_name": "Фонвизинская",
+    "depth": "-65"
+  },
+  {
+    "station_name": "Локомотив",
+    "depth": "0"
+  },
+  {
+    "station_name": "Семёновская",
+    "depth": "-40"
+  },
+  {
+    "station_name": "Хорошёво",
+    "depth": "5"
+  },
+  {
+    "station_name": "Выхино",
+    "depth": "0"
+  },
+  {
+    "station_name": "Новокосино",
+    "depth": "-9"
+  },
+  {
+    "station_name": "Петровский парк",
+    "depth": "-25"
+  },
+  {
+    "station_name": "Измайловская",
+    "depth": "0"
+  },
+  {
+    "station_name": "Парк Победы",
+    "depth": "-73,6"
+  },
+  {
+    "station_name": "Беломорская",
+    "depth": "-18"
+  },
+  {
+    "station_name": "Рижская",
+    "depth": "-46"
+  },
+  {
+    "station_name": "Шелепиха",
+    "depth": "5"
+  }
+]
