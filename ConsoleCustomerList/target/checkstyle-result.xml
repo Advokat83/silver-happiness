@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Skillbox\java_basics\ExceptionsDebuggingAndTesting\ExceptionsDebuggingAndTesting\homework_1\ConsoleCustomerList\src\main\java\Customer.java">
+</file>
+<file name="C:\Skillbox\java_basics\ExceptionsDebuggingAndTesting\ExceptionsDebuggingAndTesting\homework_1\ConsoleCustomerList\src\main\java\CustomerStorage.java">
+</file>
+<file name="C:\Skillbox\java_basics\ExceptionsDebuggingAndTesting\ExceptionsDebuggingAndTesting\homework_1\ConsoleCustomerList\src\main\java\Main.java">
+<error line="10" column="33" severity="warning" message="Неверное наименование константы - &apos;helpText&apos;, имя константы должно удовлетворять регулярному выражению - &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;, пример: THIS_IS_CONSTANT. Подробнее: http://sk.sendel.ru/2020/java-code-style/#constant" source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+</checkstyle>

@@ -1,0 +1,35 @@
+2023-02-13 21:54:26.612 [main] WARN  Main - Сообщение об ошибке
+2023-02-13 21:54:35.608 [main] INFO  Main - Информация о запросах в приложенииadd Василий Петров vasily.petrov@gmail.com +79215637722
+2023-02-13 21:54:46.215 [main] INFO  Main - Информация о запросах в приложенииadd Василий Петров
+2023-02-13 21:54:46.216 [main] ERROR Main - Текущая ошибка: Wrong format. Correct format: 
+add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-02-13 21:54:55.015 [main] INFO  Main - Информация о запросах в приложенииadd Василий Петров vasily.petrovgmail.com +79215637722
+2023-02-13 21:54:55.051 [main] ERROR Main - Текущая ошибка: Wrong format. Correct format: 
+Введите корректный email. Например: vasily.petrov@gmail.com
+2023-02-13 21:55:16.767 [main] INFO  Main - Информация о запросах в приложенииadd Анатолий Петров vasily.petrov@gmail.com +79205369874
+2023-02-13 21:55:26.863 [main] INFO  Main - Информация о запросах в приложении
+2023-02-13 21:55:30.878 [main] INFO  Main - Информация о запросах в приложенииlist
+2023-02-13 21:55:36.950 [main] INFO  Main - Информация о запросах в приложенииcount
+2023-02-13 21:59:16.127 [main] INFO  Main - Информация о запросах в приложении add Ольга Архипова olga.arkhipova@mail.com +79852885718
+2023-02-13 21:59:47.686 [main] INFO  Main - Информация о запросах в приложении add Kirill Arkhipov mak.advokat@gmail.com +79162994072
+2023-02-13 22:00:01.462 [main] INFO  Main - Информация о запросах в приложении add Kirill
+2023-02-13 22:00:10.855 [main] INFO  Main - Информация о запросах в приложении add Kirill Arkhipov mak.advokat@gmail.com
+2023-02-13 22:00:13.438 [main] INFO  Main - Информация о запросах в приложении list
+2023-02-13 22:00:20.750 [main] INFO  Main - Информация о запросах в приложении count
+2023-02-13 22:00:37.750 [main] INFO  Main - Информация о запросах в приложении remove Kirill Arkhipov
+2023-02-13 22:00:41.334 [main] INFO  Main - Информация о запросах в приложении list
+2023-02-14 12:54:46.724 [main] INFO  Main - Информация о запросах в приложении add Kirill Arkhipov mak.advokat@gmail.com +79162994072
+2023-02-14 12:55:30.251 [main] INFO  Main - Информация о запросах в приложении add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-02-14 12:56:02.098 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin vasily.petrov@gmail.com +79215636895
+2023-02-14 12:56:18.929 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin vasily.petrovgmail.com +79215636895
+2023-02-14 13:00:00.273 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin vasily.petrov@gmail.com
+2023-02-14 13:00:13.321 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin
+2023-02-14 13:00:18.233 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin vasily.petrov@gmail.com +79215636895
+2023-02-14 13:00:24.457 [main] INFO  Main - Информация о запросах в приложении list
+2023-02-14 13:00:34.857 [main] INFO  Main - Информация о запросах в приложении count
+2023-02-14 13:02:25.657 [main] INFO  Main - Информация о запросах в приложении add Anatoly Vasin vasily.petrov@gmail.com +7921563
+2023-02-17 20:00:18.041 [main] INFO  Main - Информация о запросах в приложении add Виктор Апенчук
+2023-02-17 20:00:35.953 [main] INFO  Main - Информация о запросах в приложении add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-02-17 20:00:56.393 [main] INFO  Main - Информация о запросах в приложении add Анатолий Петров vasily.petrov@gmail.com +79215634689
+2023-02-17 20:01:02.073 [main] INFO  Main - Информация о запросах в приложении list
+2023-02-17 20:01:06.672 [main] INFO  Main - Информация о запросах в приложении count
